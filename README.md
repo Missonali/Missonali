@@ -1,4 +1,4 @@
-[![MasterHead](https://research.atu.edu.iq/wp-content/uploads/2021/01/cloud-computing-banner-1024x323.jpg)](https://mdkashifsidd.io)
+[![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)](https://vimugithub.io)
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
